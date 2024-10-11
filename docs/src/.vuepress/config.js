@@ -52,6 +52,7 @@ module.exports = {
             'lgpd',
             'database',
             'airflow',
+            'etl',
             'power_bi',
             'dax',
             'go',
