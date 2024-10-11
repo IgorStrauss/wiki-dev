@@ -1,0 +1,19 @@
+{
+  "name": "wiki-dev",
+  "version": "0.0.1",
+  "description": "Acervo técnico com referências pessoais utilizadas durante desenvolvimento em diversos projetos.",
+  "main": "index.js",
+  "authors": {
+    "name": "Igor Marques",
+    "email": "engenheirostrauss2@gmail.com"
+  },
+  "repository": "/wiki-dev",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
