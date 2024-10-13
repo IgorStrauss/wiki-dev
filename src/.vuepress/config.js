@@ -51,6 +51,7 @@ module.exports = {
             '',
             'lgpd',
             'database',
+            'design_patterns',
             'airflow',
             'etl',
             'power_bi',
