@@ -107,3 +107,5 @@ Exemplo:
  O padrão Repository é especialmente útil em aplicativos que precisam acessar diferentes fontes de dados ou quando você deseja manter o código de negócios independente dos detalhes de acesso a dados.
 
 Ao adotar o padrão Repository, você pode criar aplicativos mais flexíveis, testáveis e de fácil manutenção. É uma ferramenta valiosa no arsenal de qualquer desenvolvedor! 
+
+## SOLID
