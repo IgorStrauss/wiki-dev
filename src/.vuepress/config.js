@@ -50,6 +50,8 @@ module.exports = {
           children: [
             '',
             'lgpd',
+            'canais_referencia',
+            'comandos_git',
             'database',
             'design_patterns',
             'airflow',
